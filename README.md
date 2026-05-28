@@ -19,20 +19,169 @@
 
 <div class="mirror-list">
 
-<div class="mirror-item">arena.vn.ua</div>
-<div class="mirror-item">avtollombard.com.ua</div>
-<div class="mirror-item">razom.sumy.ua</div>
-<div class="mirror-item">analog.com.ua</div>
-<div class="mirror-item">freshcard.com.ua</div>
-<div class="mirror-item">1000z.com.ua</div>
-<div class="mirror-item">bespalovmedia.com.ua</div>
-<div class="mirror-item">abu.in.ua</div>
-<div class="mirror-item">graniart.in.ua</div>
-<div class="mirror-item">vodoley-hotel.com.ua</div>
-<div class="mirror-item">santexmax.com.ua</div>
-<div class="mirror-item">gagarinstudio.com.ua</div>
-<div class="mirror-item">oster-vip.com.ua</div>
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<title>Актуальні робочі дзеркала Topmatch</title>
+
+<style>
+    body{
+        margin:0;
+        padding:40px;
+        background:#07111f;
+        font-family:Arial, sans-serif;
+        color:#ffffff;
+    }
+
+    .mirror-wrapper{
+        max-width:900px;
+        margin:0 auto;
+        background:#0b1628;
+        border:1px solid #223048;
+        border-radius:8px;
+        overflow:hidden;
+        box-shadow:0 0 20px rgba(0,0,0,0.4);
+    }
+
+    .mirror-title{
+        display:flex;
+        align-items:center;
+        gap:12px;
+        padding:20px 24px;
+        font-size:42px;
+        font-weight:700;
+        border-bottom:1px solid #223048;
+    }
+
+    .mirror-title span{
+        font-size:40px;
+    }
+
+    table{
+        width:100%;
+        border-collapse:collapse;
+    }
+
+    th{
+        text-align:left;
+        padding:18px 22px;
+        background:#0d1b31;
+        font-size:30px;
+        color:#ffffff;
+        border:1px solid #223048;
+    }
+
+    td{
+        padding:18px 22px;
+        border:1px solid #223048;
+        background:#0a1527;
+    }
+
+    a{
+        color:#2f8cff;
+        text-decoration:underline;
+        font-size:28px;
+        transition:0.2s;
+    }
+
+    a:hover{
+        color:#63a7ff;
+    }
+
+    @media(max-width:768px){
+
+        body{
+            padding:15px;
+        }
+
+        .mirror-title{
+            font-size:24px;
+        }
+
+        .mirror-title span{
+            font-size:26px;
+        }
+
+        th{
+            font-size:18px;
+            padding:12px;
+        }
+
+        td{
+            padding:12px;
+        }
+
+        a{
+            font-size:18px;
+        }
+    }
+</style>
+</head>
+
+<body>
+
+<div class="mirror-wrapper">
+
+    <div class="mirror-title">
+        <span>🌐</span>
+        Актуальні робочі дзеркала
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Основні дзеркала</th>
+                <th>Альтернативні дзеркала</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td><a href="#">arena.vn.ua</a></td>
+                <td><a href="#">avtollombard.com.ua</a></td>
+            </tr>
+
+            <tr>
+                <td><a href="#">razom.sumy.ua</a></td>
+                <td><a href="#">analog.com.ua</a></td>
+            </tr>
+
+            <tr>
+                <td><a href="#">freshcard.com.ua</a></td>
+                <td><a href="#">1000z.com.ua</a></td>
+            </tr>
+
+            <tr>
+                <td><a href="#">bespalovmedia.com.ua</a></td>
+                <td><a href="#">abu.in.ua</a></td>
+            </tr>
+
+            <tr>
+                <td><a href="#">graniart.in.ua</a></td>
+                <td><a href="#">vodoley-hotel.com.ua</a></td>
+            </tr>
+
+            <tr>
+                <td><a href="#">santexmax.com.ua</a></td>
+                <td><a href="#">gagarinstudio.com.ua</a></td>
+            </tr>
+
+            <tr>
+                <td><a href="#">oster-vip.com.ua</a></td>
+                <td><a href="#">arena.vn.ua</a></td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+</body>
+</html>
 </div>
 
 <div class="warning">
