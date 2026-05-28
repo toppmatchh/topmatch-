@@ -22,41 +22,66 @@ Topmatch</a> які дозволяють отримати стабільний �
 
 <div class="mirror-wrapper">
 
- <table>
-        <thead>
-            <tr>
-                <th>Основні дзеркала</th>
-                <th>Альтернативні дзеркала</th>
-            </tr>
-        </thead>
+<section style="background:#050b16; padding:30px; font-family:Arial,sans-serif; color:#fff; max-width:800px; border-radius:12px; border:1px solid #1c2d4a;">
 
-<tbody>
-            <tr>
-                <td><a href="#">allwin.com</a></td>
-                <td><a href="#">allwin-casino.com</a></td>
-            </tr>
+  <h2 style="font-size:38px; margin-bottom:25px; display:flex; align-items:center; gap:12px;">
+    🌐 Актуальні робочі дзеркала
+  </h2>
 
-<tr>
-                <td><a href="#">allwin-ua.com</a></td>
-                <td><a href="#">all-win.com</a></td>
-            </tr>
+   </th>
+      </tr>
+    </thead>
 
-<tr>
-                <td><a href="#">allwin-kazino.com</a></td>
-                <td><a href="#">allvin.com</a></td>
-            </tr>
+   <tbody>
+      <tr>
+        <td style="border:1px solid #2b3d5c; padding:18px;">
+          <a href="https://topmatch-ua1.com/" target="_blank" 
+             style="color:#2f81f7; text-decoration:underline;">
+             topmatch-ua1.com
+          </a>
+        </td>
+        <td style="border:1px solid #2b3d5c; padding:18px;">
+          <a href="https://topmatch-ua.com/" target="_blank" 
+             style="color:#2f81f7; text-decoration:underline;">
+             topmatch-ua.com
+          </a>
+        </td>
+      </tr>
 
-<tr>
-                <td><a href="#">all-win-casino.com</a></td>
-                <td><a href="#">allvin-kazino.com</a></td>
-            </tr>
+   <tr>
+        <td style="border:1px solid #2b3d5c; padding:18px;">
+          <a href="https://topmatch.bet/" target="_blank" 
+             style="color:#2f81f7; text-decoration:underline;">
+             topmatch.bet
+          </a>
+        </td>
+        <td style="border:1px solid #2b3d5c; padding:18px;">
+          <a href="https://topmatch-ua1.com/" target="_blank" 
+             style="color:#2f81f7; text-decoration:underline;">
+             topmatch-ua1.com
+          </a>
+        </td>
+      </tr>
 
-<tr>
-                <td><a href="#">kazino-allwin.com</a></td>
-                <td><a href="#">ollwin.com</a></td>
-            </tr>
-        </tbody>
-</table>
+   <tr>
+        <td style="border:1px solid #2b3d5c; padding:18px;">
+          <a href="https://topmatch-ua.com/" target="_blank" 
+             style="color:#2f81f7; text-decoration:underline;">
+             topmatch-ua.com
+          </a>
+        </td>
+        <td style="border:1px solid #2b3d5c; padding:18px;">
+          <a href="https://topmatch.bet/" target="_blank" 
+             style="color:#2f81f7; text-decoration:underline;">
+             topmatch.bet
+          </a>
+        </td>
+      </tr>
+
+   </tbody>
+  </table>
+
+</section>
 
 
 </div>
