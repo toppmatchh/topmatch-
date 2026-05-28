@@ -22,7 +22,7 @@
   <table>
     <thead>
       <tr>
-        <th>Основні дзеркала</th>
+        <th>Актуальні дзеркала</th>
       </tr>
     </thead>
     <tbody>
