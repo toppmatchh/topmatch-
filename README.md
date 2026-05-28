@@ -17,19 +17,9 @@
 
 <h2>🌐 Актуальні робочі дзеркала</h2>
 
-<div class="mirror-list">
-
-)
-<body>
-
 <div class="mirror-wrapper">
 
-    <div class="mirror-title">
-        <span>🌐</span>
-        Актуальні робочі дзеркала
-    </div>
-
-    <table>
+<table>
         <thead>
             <tr>
                 <th>Основні дзеркала</th>
@@ -37,44 +27,44 @@
             </tr>
         </thead>
 
-        <tbody>
+<tbody>
 
-            <tr>
+<tr>
                 <td><a href="#">arena.vn.ua</a></td>
                 <td><a href="#">avtollombard.com.ua</a></td>
             </tr>
 
-            <tr>
+<tr>
                 <td><a href="#">razom.sumy.ua</a></td>
                 <td><a href="#">analog.com.ua</a></td>
             </tr>
 
-            <tr>
+<tr>
                 <td><a href="#">freshcard.com.ua</a></td>
                 <td><a href="#">1000z.com.ua</a></td>
             </tr>
 
-            <tr>
+<tr>
                 <td><a href="#">bespalovmedia.com.ua</a></td>
                 <td><a href="#">abu.in.ua</a></td>
             </tr>
 
-            <tr>
+<tr>
                 <td><a href="#">graniart.in.ua</a></td>
                 <td><a href="#">vodoley-hotel.com.ua</a></td>
             </tr>
 
-            <tr>
+<tr>
                 <td><a href="#">santexmax.com.ua</a></td>
                 <td><a href="#">gagarinstudio.com.ua</a></td>
             </tr>
 
-            <tr>
+<tr>
                 <td><a href="#">oster-vip.com.ua</a></td>
                 <td><a href="#">arena.vn.ua</a></td>
             </tr>
 
-        </tbody>
+</tbody>
     </table>
 
 </div>
